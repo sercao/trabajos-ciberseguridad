@@ -1,4 +1,4 @@
-# Trabajos del Máster en Ciberseguridad
+# Portafolio SOC Analyst – casos prácticos y laboratorios
 
 Este repositorio contiene todos los casos prácticos, proyectos de aplicación e informes elaborados por **Sergio Carretero Otero** durante el Máster en Ciberseguridad en el Instituto Europeo de Posgrado (IEP).
 
